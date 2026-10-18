@@ -1,0 +1,4 @@
+Handle,Title,Body (HTML),Vendor,Type,Tags,Variant Price,Image Src,Image Alt Text,SEO Title,SEO Description,Status
+sample-cedar-candle,Cedar sample candle,"<p>A short sample row for trying the importer.</p>",Hearth & Wick,Candle,"soy candle, cedar",36.00,,Amber jar on a wood table,Cedar sample candle,"Sample meta description for the cedar candle import row, long enough to exercise the column.",active
+sample-linen-spray,Spray,"<p>Room spray.</p>",Hearth & Wick,Room spray,"linen spray",22.00,,,,Draft status sample,active
+sample-soap,Fig soap,"<p>Fig leaf soap in a glass bottle.</p>",Hearth & Wick,Soap,"hand soap, fig",18.00,,Frosted bottle of fig soap,Fig soap,A short meta.,active
